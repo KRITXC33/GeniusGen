@@ -1,0 +1,12 @@
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\bin\Debug\Genius Generator.exe.config
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\bin\Debug\Genius Generator.exe
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\bin\Debug\Genius Generator.pdb
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\bin\Debug\Genius Generator.xml
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\obj\Debug\Genius Generator.vbproj.AssemblyReference.cache
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\obj\Debug\Genius_Generator.Form1.resources
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\obj\Debug\Genius_Generator.Resources.resources
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\obj\Debug\Genius Generator.vbproj.GenerateResource.cache
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\obj\Debug\Genius Generator.vbproj.CoreCompileInputs.cache
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\obj\Debug\Genius Generator.exe
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\obj\Debug\Genius Generator.xml
+C:\Users\Chunk\source\repos\Genius Generator\Genius Generator\obj\Debug\Genius Generator.pdb
