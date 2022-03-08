@@ -12,7 +12,7 @@ This is a little program is version 1
 6) Enjoy the simple interactive program!
 
 
-V 1.0.0
+V 1.1.0
 Credits: 
 @SILENCExKritic
 
